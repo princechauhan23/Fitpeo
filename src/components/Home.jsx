@@ -1,4 +1,4 @@
-import SearchBar from './searchBar';
+import SearchBar from './SearchBar';
 import Cards from './Cards';
 import BarChart from './BarChart';
 import DoughnutChart from './DoughnutChart';

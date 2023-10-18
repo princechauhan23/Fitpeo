@@ -1,4 +1,4 @@
-import SearchBar from './searchBar';
+import SearchBar from './SearchBar';
 import Product1 from '../assets/images/product1.jpg';
 import Product2 from '../assets/images/product2.jpg';
 import Product3 from '../assets/images/product3.jpg';
