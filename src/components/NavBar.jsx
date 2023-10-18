@@ -49,7 +49,7 @@ const NavBar = () => {
           {points.map((point, index) => (
             <div
               key={index}
-              className={`w-[85%] h-12 pl-0 flex justify-center sm:justify-start sm:pl-3 items-center gap-3 text-[#fff] opacity-75 rounded-lg m-auto ${(selectedNav === point.name) ? 'opacity-100 bg-[#1a1a69]' : ''}`}
+              className={`w-[85%] h-12 pl-0 flex justify-center sm:justify-start sm:pl-3 items-center gap-3 text-[#fff] opacity-75 rounded-lg m-auto cursor-pointer ${(selectedNav === point.name) ? 'opacity-100 bg-[#1a1a69]' : ''}`}
               onClick={() => setSelectedNav(point.name)}
             >
               <span className='w-7'>
