@@ -1,4 +1,5 @@
 # Fitpeo
+<img src='https://github.com/princechauhan23/Fitpeo/blob/master/public/favicon.ico'/>
 
 FitPeo is a remote patient monitoring platform that helps healthcare providers connect with patients remotely. The platform was established in May 2021.
 
