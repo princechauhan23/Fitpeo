@@ -21,7 +21,7 @@ const ProductSell = () => {
               <th className='w-[60%] pl-3'>Product Name</th>
               <th className='w-[5%]'>Stock</th>
               <th className='w-[5%]'>Price</th>
-              <th className='w-[10%]'>Total sales</th>
+              <th className='w-[10%] text-center'>Total sales</th>
             </tr>
           </thead>
           <tbody>
